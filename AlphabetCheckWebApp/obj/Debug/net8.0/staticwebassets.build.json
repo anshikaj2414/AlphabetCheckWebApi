@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "tNNvxRBNZFtxgVw6Q4nXpwA9UglU9xn+Qh6r2VJR/Ek=",
+  "Source": "AlphabetCheckWebApi",
+  "BasePath": "_content/AlphabetCheckWebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

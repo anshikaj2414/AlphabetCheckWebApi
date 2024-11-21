@@ -1,0 +1,32 @@
+{
+  "openapi": "3.0.1",
+  "info": {
+    "title": "AlphabetCheckWebApi",
+    "version": "1.0"
+  },
+  "paths": {
+    "/api/AlphabetCheck/{inputString}": {
+      "get": {
+        "tags": [
+          "AlphabetCheck"
+        ],
+        "parameters": [
+          {
+            "name": "inputString",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    }
+  },
+  "components": { }
+}

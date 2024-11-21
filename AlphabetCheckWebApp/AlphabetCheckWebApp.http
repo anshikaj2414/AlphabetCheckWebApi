@@ -1,0 +1,6 @@
+@AlphabetCheckWebApp_HostAddress = http://localhost:5139
+
+GET {{AlphabetCheckWebApp_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

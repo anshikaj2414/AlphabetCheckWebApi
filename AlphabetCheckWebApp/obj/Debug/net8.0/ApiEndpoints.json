@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "AlphabetCheckWebApp.Controllers.AlphabetCheckController",
+    "Method": "CheckAllAlphabets",
+    "RelativePath": "api/AlphabetCheck/{inputString}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "inputString",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
